@@ -247,16 +247,17 @@ ul { margin: 0; padding: 0; }
   display: flex;
   align-items: center;
   flex: none;
+  min-height: 44px;
   transition: transform 0.3s var(--ease);
 }
 .brand:hover { transform: scale(1.02); }
 
 .brand-logo {
-  height: 34px;
+  height: 36px;
   width: auto;
   transition: height 0.3s var(--ease);
 }
-.site-header.scrolled .brand-logo { height: 28px; }
+.site-header.scrolled .brand-logo { height: 30px; }
 
 .main-nav { display: none; }
 
@@ -649,6 +650,8 @@ main { padding-top: var(--header-h); }
 }
 
 .hero-photo { aspect-ratio: 4 / 3; }
+/* iets naar rechts uitgesneden zodat beide medewerkers volledig in beeld blijven */
+.hero-photo img { object-position: 62% center; }
 
 .hero-card {
   position: absolute;
@@ -754,6 +757,7 @@ main { padding-top: var(--header-h); }
   display: inline-flex;
   align-items: center;
   gap: 8px;
+  min-height: 44px;
   margin-top: auto;
   padding-top: 16px;
   font-size: 0.94rem;
@@ -971,23 +975,29 @@ main { padding-top: var(--header-h); }
 
 .contact-list {
   display: grid;
-  gap: 11px;
+  gap: 4px;
   list-style: none;
   font-size: 0.98rem;
 }
 .contact-list li {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 11px;
+  min-height: 44px;
 }
 .contact-list .icon {
   width: 20px;
   height: 20px;
-  margin-top: 3px;
   color: var(--brand);
   flex: none;
 }
-.contact-list a { color: var(--ink-2); }
+.contact-list a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: var(--ink-2);
+  overflow-wrap: anywhere;
+}
 .contact-list a:hover { color: var(--brand); }
 
 .hours-title {
@@ -1278,8 +1288,13 @@ main { padding-top: var(--header-h); }
 
 .footer-col p { color: rgba(255, 255, 255, 0.66); }
 
-.footer-links { list-style: none; display: grid; gap: 10px; }
-.footer-links a { color: rgba(255, 255, 255, 0.78); }
+.footer-links { list-style: none; display: grid; gap: 0; }
+.footer-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: rgba(255, 255, 255, 0.78);
+}
 .footer-links a:hover { color: var(--sky); }
 
 .footer-col .contact-list { font-size: 0.94rem; }
@@ -1298,8 +1313,14 @@ main { padding-top: var(--header-h); }
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
 }
-.footer-bottom a { color: rgba(255, 255, 255, 0.8); }
+.footer-bottom a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: rgba(255, 255, 255, 0.8);
+}
 .footer-bottom a:hover { color: var(--sky); }
+.footer-bottom p { margin: 0; }
 
 /* ---------- 23. Bewegende elementen ---------- */
 .fade-up {
@@ -1367,7 +1388,6 @@ main { padding-top: var(--header-h); }
   .header-cta { display: inline-flex; }
 
   .hero-grid { grid-template-columns: 1.06fr 0.94fr; }
-  .hero-photo { aspect-ratio: 3 / 4; }
   .hero-card { left: -22px; bottom: 28px; }
 
   .cards-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
@@ -1395,6 +1415,5 @@ main { padding-top: var(--header-h); }
   .container { padding-inline: 28px; }
   .cards-grid.grid-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   .cards-grid.grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-  .hero-photo { aspect-ratio: 4 / 5; }
   .tm-section { --tm-card-width: 21rem; }
 }

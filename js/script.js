@@ -313,7 +313,7 @@
   function initForm() {
     var form = document.querySelector('[data-contact-form]');
     if (!form) return;
-    var status = form.querySelector('.form-status');
+    var status = document.querySelector('.form-status');
 
     form.addEventListener('submit', function (e) {
       e.preventDefault();
@@ -339,11 +339,11 @@
         '?subject=' + encodeURIComponent(subjectLabel) +
         '&body=' + encodeURIComponent(lines.join('\n'));
 
-      window.location.href = href;
-
       if (status) {
         status.classList.add('visible');
       }
+
+      window.location.href = href;
     });
   }
 
