@@ -1,0 +1,324 @@
+{
+  "a11y": {
+    "skip": "Naar de inhoud"
+  },
+  "header": {
+    "brandLabel": "Naar de homepagina van Schilperoort IJzerwaren",
+    "navLabel": "Hoofdnavigatie",
+    "mobileNavLabel": "Mobiele navigatie",
+    "langLabel": "Taal kiezen",
+    "menuLabel": "Menu openen of sluiten",
+    "callBogaard": "Bel filiaal Bogaard"
+  },
+  "nav": {
+    "home": "Home",
+    "assortiment": "Assortiment",
+    "over": "Over ons",
+    "faq": "Veelgestelde vragen",
+    "contact": "Contact",
+    "cta": "Filialen en tijden"
+  },
+  "footer": {
+    "intro": "IJzerwaren, gereedschappen en doe het zelf artikelen, met twee winkels in Rijswijk en advies van vakmensen.",
+    "pages": "Pagina's",
+    "branchBogaard": "Filiaal Bogaard",
+    "branchHerenstraat": "Filiaal Herenstraat",
+    "madeBy": "Website gemaakt door",
+    "privacy": "Privacyverklaring"
+  },
+  "common": {
+    "more": "Meer hierover",
+    "closed": "gesloten"
+  },
+  "days": {
+    "mon": "Maandag",
+    "tue": "Dinsdag",
+    "wed": "Woensdag",
+    "thu": "Donderdag",
+    "fri": "Vrijdag",
+    "sat": "Zaterdag",
+    "sun": "Zondag"
+  },
+  "hours": {
+    "a": "10:00 tot 17:30",
+    "b": "09:00 tot 17:30",
+    "c": "09:00 tot 16:00"
+  },
+  "hero": {
+    "eyebrow": "IJzerwaren in Rijswijk",
+    "titleA": "Alles voor in en om uw",
+    "titleB": "huis",
+    "lead": "Professioneel advies op maat, van een sleutel bijmaken tot verlichting, gereedschap, verf en tuinartikelen. U vindt ons op twee plekken in Rijswijk.",
+    "ctaPrimary": "Bekijk het assortiment",
+    "ctaSecondary": "Onze twee filialen",
+    "meta1": "Bogaard en Oud-Rijswijk",
+    "meta2": "Eigen sleutelservice",
+    "meta3": "Advies van vakmensen",
+    "cardTitle": "Persoonlijk advies",
+    "cardText": "Van onze eigen medewerkers"
+  },
+  "stats": {
+    "one": "winkels in Rijswijk",
+    "two": "dagen per week open",
+    "three": "productgroepen in de winkel"
+  },
+  "offer": {
+    "eyebrow": "Ons aanbod",
+    "title": "Waarvoor u bij ons terecht kunt",
+    "lead": "U kunt bij ons terecht voor diverse gereedschappen, voor het bijmaken van diverse sleutels, verfartikelen, stofzuigerzakken, horren, naamplaatjes, tuinartikelen en nog veel meer.",
+    "keys": {
+      "title": "Sleutelservice",
+      "text": "Sleutels voor huis, brievenbus, kluis, fiets, motor, scooter en auto met transponder."
+    },
+    "light": {
+      "title": "Verlichting",
+      "text": "Halogeen, led, gloeilampen en tl-verlichting voor binnen en buiten."
+    },
+    "tools": {
+      "title": "Gereedschappen",
+      "text": "Handgereedschap van merken als Neo Tools, Topex, KWB en Verto."
+    },
+    "paint": {
+      "title": "Verfartikelen",
+      "text": "Verf en bijbehorende materialen voor uw schilderwerk."
+    },
+    "bags": {
+      "title": "Stofzuigerzakken",
+      "text": "Stofzuigerzakken haalt u gewoon bij ons in de winkel."
+    },
+    "screens": {
+      "title": "Horren",
+      "text": "Raam- en deurhorren, zodat insecten buiten blijven."
+    },
+    "plates": {
+      "title": "Naambordjes",
+      "text": "Zelf een naambordje ontwerpen via onze online bestelservice."
+    },
+    "garden": {
+      "title": "Tuinartikelen",
+      "text": "Spullen voor het werk in de tuin, het hele jaar door."
+    }
+  },
+  "keys": {
+    "eyebrow": "Sleutelservice",
+    "title": "Een sleutel bijmaken doet u hier",
+    "text": "Van een gewone huissleutel tot een autosleutel met transponder. Wij maken uiteenlopende sleutels voor u bij en zoeken samen met u uit welk type u nodig heeft.",
+    "item1": "Huissleutels en brievenbussleutels",
+    "item2": "Kluissleutels",
+    "item3": "Sleutels voor fiets, motor en scooter",
+    "item4": "Autosleutels met transponder",
+    "cta": "Stel uw vraag over sleutels"
+  },
+  "brands": {
+    "eyebrow": "Merken",
+    "title": "Merken die wij verkopen",
+    "lead": "In onze winkels vindt u gereedschap en materialen van onder andere Neo Tools, Topex, KWB, Verto en Deltafix."
+  },
+  "reviews": {
+    "badge": "Reviews op Google",
+    "title": "Wat klanten over ons zeggen",
+    "lead": "Een greep uit de reacties die klanten zelf over onze winkels schreven.",
+    "note": "De reviews staan hier onbewerkt, precies zoals klanten ze zelf op Google schreven."
+  },
+  "plates": {
+    "title": "Uw eigen naambordje ontwerpen",
+    "text": "Via onze online bestelservice ontwerpt u eenvoudig een naambordje dat perfect aansluit bij uw wensen. Kies uw favoriete model, voeg uw eigen tekst toe en ontdek de vele mogelijkheden in materiaal, kleur en uitvoering.",
+    "cta": "Naar de bestelservice"
+  },
+  "locations": {
+    "eyebrow": "Twee winkels",
+    "title": "In de Bogaard en in Oud-Rijswijk",
+    "lead": "In onze filialen in de Bogaard en Oud-Rijswijk wordt u vakkundig geholpen door 1 van onze medewerkers. Met jarenlange ervaring en passie voor het vak kunt u er vanuit gaan dat u goed advies krijgt.",
+    "bogaard": "Filiaal Bogaard",
+    "herenstraat": "Filiaal Herenstraat",
+    "hoursLink": "Bekijk de openingstijden",
+    "hoursTitle": "Adressen en openingstijden",
+    "hoursLead": "Beide winkels hebben hun eigen openingstijden. Op maandag en op zondag zijn wij gesloten.",
+    "openingHours": "Openingstijden",
+    "route": "Route bekijken",
+    "callBogaard": "Bel dit filiaal",
+    "callHerenstraat": "Bel dit filiaal",
+    "noticeBogaard": "Let op: op dinsdag opent dit filiaal om 10:00 uur, een uur later dan op de andere dagen.",
+    "noticeHerenstraat": "Vakantiesluiting gepland van 18 tot en met 26 september 2026, vanaf 29 september 2026 weer open. Wijzigingen zijn mogelijk, bel gerust even vooraf."
+  },
+  "cta": {
+    "title": "Even langskomen of eerst iets vragen",
+    "text": "Loop binnen in een van onze twee winkels, of stel uw vraag vooraf. Wij denken graag met u mee over de klus die u in gedachten heeft.",
+    "primary": "Bekijk onze filialen",
+    "secondary": "Stel uw vraag",
+    "faq": "Naar de veelgestelde vragen"
+  },
+  "cookie": {
+    "text": "Deze website gebruikt alleen opslag in uw browser om uw taalkeuze te onthouden. Meer hierover leest u in de privacyverklaring.",
+    "accept": "Akkoord",
+    "more": "Privacyverklaring"
+  },
+  "assortiment": {
+    "eyebrow": "Assortiment",
+    "titleA": "Voor de klus in en om het",
+    "titleB": "huis",
+    "lead": "U kunt bij ons terecht voor diverse gereedschappen, voor het bijmaken van diverse sleutels, verfartikelen, stofzuigerzakken, horren, naamplaatjes, tuinartikelen en nog veel meer.",
+    "sectionTitle": "Wat u in de winkel vindt",
+    "sectionLead": "Acht productgroepen uit onze winkels. Weet u niet precies wat u nodig heeft? Vertel wat u wilt gaan doen, dan zoeken wij het juiste artikel met u op.",
+    "keys": "Wij maken sleutels bij voor uw huis, de brievenbus, de kluis, de fiets, de motor, de scooter en voor de auto met transponder. Weet u niet welk type u nodig heeft? Neem het exemplaar dat u heeft mee naar de winkel.",
+    "light": "Halogeenlampen, ledlampen, gloeilampen en tl-verlichting. Loop binnen met de oude lamp of de fitting, dan kijken wij samen met u welke vervanger past.",
+    "tools": "Handgereedschap van merken als Neo Tools, Topex, KWB en Verto, samen met bevestigingsmateriaal zoals schroeven, moeren, bouten en ringen.",
+    "paint": "Verf en de bijbehorende materialen voor uw schilderklus, zoals kwasten, rollers en afplakmateriaal.",
+    "bags": "Stofzuigerzakken haalt u gewoon bij ons in de winkel. Neem uw oude zak of het typenummer van de stofzuiger mee, dan zoeken wij de passende maat erbij.",
+    "screens": "Raam- en deurhorren, zodat u in de zomer de ramen open kunt zetten zonder insecten binnen te halen.",
+    "plates": "Een naambordje ontwerpt u zelf via onze online bestelservice. Kies een model, voeg uw eigen tekst toe en bepaal materiaal, kleur en uitvoering.",
+    "garden": "Artikelen voor het werk in de tuin. Loop gerust binnen om te kijken wat er ligt en vraag onze medewerkers om advies."
+  },
+  "advice": {
+    "eyebrow": "Advies in de winkel",
+    "title": "Liever eerst even overleggen",
+    "text": "Twijfelt u over het juiste artikel voor uw klus? Onze medewerkers hebben jarenlange ervaring en denken met u mee, zodat u met het juiste materiaal naar huis gaat.",
+    "item1": "Neem het oude onderdeel gerust mee naar de winkel",
+    "item2": "Twee winkels in Rijswijk, allebei met eigen openingstijden",
+    "item3": "Bellen kan ook, de nummers van beide winkels staan op deze pagina",
+    "callTitle": "Bel een van onze filialen",
+    "callCta": "Openingstijden bekijken"
+  },
+  "about": {
+    "eyebrow": "Over ons",
+    "titleA": "De ijzerwarenwinkel van",
+    "titleB": "Rijswijk",
+    "lead": "Alles voor in en om uw huis, professioneel advies op maat. Dat is waar wij in onze twee winkels elke dag mee bezig zijn.",
+    "storyTitle": "Twee winkels, dezelfde aanpak",
+    "story1": "In onze filialen in de Bogaard en Oud-Rijswijk wordt u vakkundig geholpen door 1 van onze medewerkers. Met jarenlange ervaring en passie voor het vak kunt u er vanuit gaan dat u goed advies krijgt.",
+    "story2": "Achter de winkels staan Onno en Remco Schilperoort. U kunt bij ons terecht voor diverse gereedschappen, voor het bijmaken van diverse sleutels, verfartikelen, stofzuigerzakken, horren, naamplaatjes, tuinartikelen en nog veel meer.",
+    "cta": "Bekijk het assortiment",
+    "serviceTitle": "Van sleutels tot naambordjes",
+    "serviceText": "Naast het gewone winkelassortiment maken wij sleutels bij en ontwerpt u via onze online bestelservice uw eigen naambordje. Zo hoeft u voor de kleine dingen in en om het huis niet ver te zoeken.",
+    "serviceCta": "Lees de veelgestelde vragen"
+  },
+  "values": {
+    "eyebrow": "Waar wij voor staan",
+    "title": "Drie dingen die u van ons mag verwachten",
+    "one": {
+      "title": "Vakkennis",
+      "text": "Medewerkers met jarenlange ervaring, die weten wat er in welk bakje ligt en waarom het ene artikel beter past dan het andere."
+    },
+    "two": {
+      "title": "Dichtbij",
+      "text": "Twee winkels in Rijswijk: een in winkelcentrum In de Boogaard en een in de Herenstraat in Oud-Rijswijk."
+    },
+    "three": {
+      "title": "Advies op maat",
+      "text": "Vertel wat u wilt gaan doen, dan zoeken wij mee naar het artikel dat bij uw klus en uw budget past."
+    }
+  },
+  "faq": {
+    "eyebrow": "Veelgestelde vragen",
+    "titleA": "Antwoord op de vragen die wij het",
+    "titleB": "vaakst krijgen",
+    "lead": "Staat uw vraag er niet bij? Bel dan gerust een van onze winkels of stuur een bericht via de contactpagina.",
+    "q1": "Waar vind ik de winkels van Schilperoort IJzerwaren?",
+    "a1": "Wij hebben twee winkels in Rijswijk. Filiaal Bogaard vindt u aan de Prins Johan Friso Promenade 150, 2284 DC Rijswijk. Filiaal Herenstraat vindt u aan de Herenstraat 72, 2282 BZ Rijswijk.",
+    "q2": "Wanneer zijn de winkels open?",
+    "a2": "De openingstijden per dag staan voor beide filialen op de contactpagina. Op maandag zijn wij gesloten en op zondag zijn wij gesloten.",
+    "q3": "Kan ik bij jullie een sleutel laten bijmaken?",
+    "a3": "Ja. Wij maken sleutels bij voor uw huis, de brievenbus, de kluis, de fiets, de motor en de scooter. Ook autosleutels met transponder horen bij onze sleutelservice.",
+    "q4": "Maken jullie ook autosleutels met een transponder?",
+    "a4": "Ja, autosleutels met transponder horen bij onze sleutelservice. Neem uw huidige sleutel mee naar de winkel, dan bekijken wij samen met u wat er mogelijk is.",
+    "q5": "Welke merken gereedschap verkopen jullie?",
+    "a5": "In onze winkels vindt u gereedschap en materialen van onder andere Neo Tools, Topex, KWB, Verto en Deltafix.",
+    "q6": "Kan ik bij jullie online bestellen?",
+    "a6": "Naambordjes ontwerpt en bestelt u via onze online bestelservice. Voor het overige assortiment bent u welkom in een van onze twee winkels in Rijswijk.",
+    "q7": "Hoe bestel ik een naambordje?",
+    "a7": "Via onze online bestelservice kiest u een model, voegt u uw eigen tekst toe en bepaalt u materiaal, kleur en uitvoering. De bestelservice staat op een eigen website.",
+    "q8": "Verkopen jullie ook verlichting?",
+    "a8": "Ja. U vindt bij ons halogeenlampen, ledlampen, gloeilampen en tl-verlichting. Neem de oude lamp of de fitting mee, dan kijken wij samen welke vervanger past.",
+    "q9": "Hebben jullie stofzuigerzakken die op mijn stofzuiger passen?",
+    "a9": "Stofzuigerzakken horen bij ons assortiment. Neem uw oude zak of het typenummer van de stofzuiger mee naar de winkel, dan zoeken wij de passende maat erbij.",
+    "q10": "Zijn de winkels tijdens de vakantie gesloten?",
+    "a10": "Voor filiaal Herenstraat staat een vakantiesluiting gepland van 18 tot en met 26 september 2026. Vanaf 29 september 2026 is deze winkel weer open. Wijzigingen zijn mogelijk, dus bel gerust even vooraf.",
+    "ctaTitle": "Uw vraag staat er niet bij",
+    "ctaText": "Stel hem gerust. Bellen mag, langskomen mag ook, en via het formulier op de contactpagina kunt u uw vraag rustig uittypen."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "titleA": "Bellen, mailen of gewoon even",
+    "titleB": "binnenlopen",
+    "lead": "Wij zijn te vinden op twee plekken in Rijswijk. Hieronder staan de adressen, de telefoonnummers en de openingstijden per dag.",
+    "formTitle": "Stel uw vraag",
+    "formText": "Vul hieronder uw gegevens in en kies aan welk filiaal u de vraag wilt stellen.",
+    "fields": {
+      "name": "Naam",
+      "email": "E-mailadres",
+      "phone": "Telefoonnummer",
+      "branch": "Uw vraag gaat naar",
+      "optionBogaard": "Filiaal Bogaard",
+      "optionHerenstraat": "Filiaal Herenstraat",
+      "message": "Uw vraag of bericht"
+    },
+    "submit": "Bericht opstellen",
+    "status": "Uw e-mailprogramma opent nu met een kant en klaar bericht aan het gekozen filiaal. Controleer de tekst en verstuur de mail zelf.",
+    "mailSubject": "Vraag via de website",
+    "directTitle": "Liever direct contact",
+    "directText": "Bel gerust tijdens openingstijden. Voor een vraag over een sleutel of een onderdeel helpt het als u het exemplaar bij de hand heeft.",
+    "plateNotice": "Een naambordje bestelt u rechtstreeks via onze online bestelservice, die op een eigen website staat."
+  },
+  "privacy": {
+    "eyebrow": "Privacy",
+    "title": "Privacyverklaring",
+    "updated": "Laatst bijgewerkt: augustus 2026",
+    "h1": "Wie verwerkt uw gegevens",
+    "h2": "Welke gegevens worden verzameld",
+    "p2": "Het contactformulier op deze website opent uw eigen e-mailprogramma met een kant en klaar bericht. De gegevens die u invult komen dus als gewone e-mail bij ons binnen, niet via een tussenpartij. Het gaat om:",
+    "li1": "Uw naam",
+    "li2": "Uw e-mailadres",
+    "li3": "Uw telefoonnummer, als u dat invult",
+    "li4": "De inhoud van uw bericht",
+    "h3": "Waarom wij deze gegevens verwerken",
+    "p3": "Wij gebruiken uw gegevens alleen om uw vraag te beantwoorden en om contact met u op te nemen over uw bericht. Wij verkopen uw gegevens niet en gebruiken ze niet voor reclame.",
+    "h4": "Hoe lang wij gegevens bewaren",
+    "p4": "Wij bewaren uw bericht niet langer dan nodig is om uw vraag af te handelen. In de meeste gevallen is dat maximaal twaalf maanden na het laatste contact.",
+    "h5": "Diensten van derden",
+    "p5": "Deze website maakt gebruik van de volgende diensten:",
+    "li5": "GitHub Pages voor het hosten van deze website",
+    "li6": "Google Fonts voor het laden van de lettertypen, waarbij uw IP-adres aan Google wordt doorgegeven",
+    "li7": "Een externe bestelservice voor naambordjes, die een eigen privacybeleid hanteert",
+    "h6": "Cookies en opslag in uw browser",
+    "p6": "Deze website plaatst geen advertentiecookies en volgt uw gedrag niet. Wel wordt in de opslag van uw browser bijgehouden welke taal u heeft gekozen en of u de melding onderaan het scherm heeft weggeklikt. Die gegevens blijven op uw eigen apparaat.",
+    "h7": "Uw rechten",
+    "p7": "U heeft het recht om uw gegevens in te zien, te laten corrigeren of te laten verwijderen. Ook kunt u bezwaar maken tegen de verwerking. Stuur daarvoor een e-mail naar het filiaal waarmee u contact heeft gehad.",
+    "h8": "Klacht indienen",
+    "p8": "Bent u van mening dat wij uw persoonsgegevens niet goed verwerken, dan kunt u een klacht indienen bij de Autoriteit Persoonsgegevens."
+  },
+  "notfound": {
+    "title": "Deze pagina konden wij niet vinden",
+    "text": "Misschien is de link verouderd of is er een typefout geslopen in het adres. Ga terug naar de homepagina of bekijk meteen ons assortiment.",
+    "cta": "Naar de homepagina"
+  },
+  "meta": {
+    "home": {
+      "title": "Schilperoort IJzerwaren Rijswijk | Sleutels, gereedschap en verf",
+      "description": "IJzerwarenwinkel met twee vestigingen in Rijswijk. Sleutelservice, gereedschappen, verlichting, verf, horren, naambordjes en tuinartikelen, met advies van vakmensen."
+    },
+    "assortiment": {
+      "title": "Assortiment | Schilperoort IJzerwaren Rijswijk",
+      "description": "Van sleutelservice en gereedschap tot verlichting, verf, horren, stofzuigerzakken, naambordjes en tuinartikelen. Dit vindt u in onze winkels in Rijswijk."
+    },
+    "over": {
+      "title": "Over ons | Schilperoort IJzerwaren in Rijswijk",
+      "description": "Schilperoort IJzerwaren heeft twee winkels in Rijswijk, in winkelcentrum In de Boogaard en in Oud-Rijswijk. Lees hier wie u helpt en waar wij voor staan."
+    },
+    "faq": {
+      "title": "Veelgestelde vragen | Schilperoort IJzerwaren Rijswijk",
+      "description": "Antwoord op vragen over onze sleutelservice, openingstijden, gereedschapsmerken, naambordjes en de twee winkels van Schilperoort IJzerwaren in Rijswijk."
+    },
+    "contact": {
+      "title": "Contact en openingstijden | Schilperoort IJzerwaren Rijswijk",
+      "description": "Adres, telefoonnummer, e-mailadres en openingstijden per dag van beide winkels van Schilperoort IJzerwaren in Rijswijk. Stel uw vraag via het formulier."
+    },
+    "privacy": {
+      "title": "Privacyverklaring | Schilperoort IJzerwaren Rijswijk",
+      "description": "Privacyverklaring van Schilperoort IJzerwaren in Rijswijk: welke gegevens deze website verwerkt, waarom dat gebeurt en welke rechten u daarbij heeft."
+    },
+    "notfound": {
+      "title": "Pagina niet gevonden | Schilperoort IJzerwaren Rijswijk",
+      "description": "Deze pagina bestaat niet of is verplaatst. Ga terug naar de homepagina van Schilperoort IJzerwaren in Rijswijk of bekijk het assortiment."
+    }
+  }
+}

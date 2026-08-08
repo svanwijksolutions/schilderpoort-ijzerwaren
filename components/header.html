@@ -1,0 +1,76 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="index.html" data-i18n-aria-label="header.brandLabel" aria-label="Naar de homepagina van Schilperoort IJzerwaren">
+      <img class="brand-logo" src="assets/images/logo-schilperoort-ijzerwaren.jpg" alt="Logo van Schilperoort IJzerwaren" width="1024" height="221">
+    </a>
+
+    <nav class="main-nav" data-i18n-aria-label="header.navLabel" aria-label="Hoofdnavigatie">
+      <ul class="nav-links">
+        <li><a class="nav-link" href="index.html" data-nav="index" data-i18n="nav.home">Home</a></li>
+        <li><a class="nav-link" href="assortiment.html" data-nav="assortiment" data-i18n="nav.assortiment">Assortiment</a></li>
+        <li><a class="nav-link" href="over.html" data-nav="over" data-i18n="nav.over">Over ons</a></li>
+        <li><a class="nav-link" href="faq.html" data-nav="faq" data-i18n="nav.faq">Veelgestelde vragen</a></li>
+        <li><a class="nav-link" href="contact.html" data-nav="contact" data-i18n="nav.contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      <div class="lang-switch" data-lang-switch>
+        <button type="button" class="lang-toggle" aria-expanded="false" aria-haspopup="true" data-i18n-aria-label="header.langLabel" aria-label="Taal kiezen">
+          <img class="flag flag-nl" src="assets/icons/flag-nl.svg" alt="" width="22" height="15">
+          <img class="flag flag-en" src="assets/icons/flag-gb.svg" alt="" width="22" height="15">
+          <span class="lang-code" data-lang-code>NL</span>
+          <svg class="icon" aria-hidden="true"><use href="assets/icons/sprite.svg#icon-chevron"></use></svg>
+        </button>
+        <ul class="lang-menu">
+          <li>
+            <button type="button" class="lang-option" data-set-lang="nl" aria-selected="true">
+              <img class="flag" src="assets/icons/flag-nl.svg" alt="" width="22" height="15">
+              <span>Nederlands</span>
+            </button>
+          </li>
+          <li>
+            <button type="button" class="lang-option" data-set-lang="en" aria-selected="false">
+              <img class="flag" src="assets/icons/flag-gb.svg" alt="" width="22" height="15">
+              <span>English</span>
+            </button>
+          </li>
+        </ul>
+      </div>
+
+      <a class="btn btn-primary btn-sm header-cta" href="contact.html#locaties" data-i18n="nav.cta">Filialen en tijden</a>
+
+      <button type="button" class="menu-toggle" aria-expanded="false" data-i18n-aria-label="header.menuLabel" aria-label="Menu openen">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="mobile-menu" id="mobile-menu">
+    <nav data-i18n-aria-label="header.mobileNavLabel" aria-label="Mobiele navigatie">
+      <ul class="mobile-nav">
+        <li><a href="index.html" data-i18n="nav.home">Home<svg class="icon" aria-hidden="true"><use href="assets/icons/sprite.svg#icon-arrow"></use></svg></a></li>
+        <li><a href="assortiment.html" data-i18n="nav.assortiment">Assortiment<svg class="icon" aria-hidden="true"><use href="assets/icons/sprite.svg#icon-arrow"></use></svg></a></li>
+        <li><a href="over.html" data-i18n="nav.over">Over ons<svg class="icon" aria-hidden="true"><use href="assets/icons/sprite.svg#icon-arrow"></use></svg></a></li>
+        <li><a href="faq.html" data-i18n="nav.faq">Veelgestelde vragen<svg class="icon" aria-hidden="true"><use href="assets/icons/sprite.svg#icon-arrow"></use></svg></a></li>
+        <li><a href="contact.html" data-i18n="nav.contact">Contact<svg class="icon" aria-hidden="true"><use href="assets/icons/sprite.svg#icon-arrow"></use></svg></a></li>
+      </ul>
+    </nav>
+
+    <div class="mobile-extra">
+      <a class="btn btn-primary" href="contact.html#locaties" data-i18n="nav.cta">Filialen en tijden</a>
+      <a class="btn btn-ghost" href="tel:+31703935325" data-i18n="header.callBogaard">Bel filiaal Bogaard</a>
+    </div>
+
+    <div class="mobile-lang">
+      <button type="button" class="mobile-lang-btn" data-set-lang="nl" aria-pressed="true">
+        <img class="flag" src="assets/icons/flag-nl.svg" alt="" width="22" height="15">
+        <span>Nederlands</span>
+      </button>
+      <button type="button" class="mobile-lang-btn" data-set-lang="en" aria-pressed="false">
+        <img class="flag" src="assets/icons/flag-gb.svg" alt="" width="22" height="15">
+        <span>English</span>
+      </button>
+    </div>
+  </div>
+</header>

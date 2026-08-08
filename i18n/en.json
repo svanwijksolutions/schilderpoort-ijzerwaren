@@ -1,0 +1,324 @@
+{
+  "a11y": {
+    "skip": "Skip to content"
+  },
+  "header": {
+    "brandLabel": "Go to the Schilperoort IJzerwaren home page",
+    "navLabel": "Main navigation",
+    "mobileNavLabel": "Mobile navigation",
+    "langLabel": "Choose a language",
+    "menuLabel": "Open or close the menu",
+    "callBogaard": "Call the Bogaard store"
+  },
+  "nav": {
+    "home": "Home",
+    "assortiment": "What we sell",
+    "over": "About us",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Stores and hours"
+  },
+  "footer": {
+    "intro": "Hardware, tools and do it yourself supplies, with two stores in Rijswijk and advice from people who know the trade.",
+    "pages": "Pages",
+    "branchBogaard": "Bogaard store",
+    "branchHerenstraat": "Herenstraat store",
+    "madeBy": "Website built by",
+    "privacy": "Privacy statement"
+  },
+  "common": {
+    "more": "Read more",
+    "closed": "closed"
+  },
+  "days": {
+    "mon": "Monday",
+    "tue": "Tuesday",
+    "wed": "Wednesday",
+    "thu": "Thursday",
+    "fri": "Friday",
+    "sat": "Saturday",
+    "sun": "Sunday"
+  },
+  "hours": {
+    "a": "10:00 to 17:30",
+    "b": "09:00 to 17:30",
+    "c": "09:00 to 16:00"
+  },
+  "hero": {
+    "eyebrow": "Hardware store in Rijswijk",
+    "titleA": "Everything for your",
+    "titleB": "home",
+    "lead": "Professional advice tailored to your job, from cutting a key to lighting, tools, paint and garden supplies. You will find us in two places in Rijswijk.",
+    "ctaPrimary": "See what we sell",
+    "ctaSecondary": "Our two stores",
+    "meta1": "Bogaard and Oud-Rijswijk",
+    "meta2": "Our own key service",
+    "meta3": "Advice from experienced staff",
+    "cardTitle": "Personal advice",
+    "cardText": "From our own staff"
+  },
+  "stats": {
+    "one": "stores in Rijswijk",
+    "two": "days open per week",
+    "three": "product groups in store"
+  },
+  "offer": {
+    "eyebrow": "What we offer",
+    "title": "What you can come to us for",
+    "lead": "You can come to us for all kinds of tools, for cutting keys, for paint supplies, vacuum cleaner bags, insect screens, name plates, garden supplies and much more.",
+    "keys": {
+      "title": "Key service",
+      "text": "Keys for your home, letterbox, safe, bicycle, motorcycle, scooter and car keys with a transponder."
+    },
+    "light": {
+      "title": "Lighting",
+      "text": "Halogen, led, incandescent and fluorescent lighting for indoors and outdoors."
+    },
+    "tools": {
+      "title": "Tools",
+      "text": "Hand tools from brands such as Neo Tools, Topex, KWB and Verto."
+    },
+    "paint": {
+      "title": "Paint supplies",
+      "text": "Paint and the materials that go with your painting job."
+    },
+    "bags": {
+      "title": "Vacuum cleaner bags",
+      "text": "Vacuum cleaner bags are simply available in our stores."
+    },
+    "screens": {
+      "title": "Insect screens",
+      "text": "Window and door screens, so insects stay outside."
+    },
+    "plates": {
+      "title": "Name plates",
+      "text": "Design your own name plate through our online ordering service."
+    },
+    "garden": {
+      "title": "Garden supplies",
+      "text": "Supplies for work in the garden, all year round."
+    }
+  },
+  "keys": {
+    "eyebrow": "Key service",
+    "title": "This is where you get a key cut",
+    "text": "From an ordinary house key to a car key with a transponder. We cut a wide range of keys and work out with you which type you need.",
+    "item1": "House keys and letterbox keys",
+    "item2": "Safe keys",
+    "item3": "Keys for bicycles, motorcycles and scooters",
+    "item4": "Car keys with a transponder",
+    "cta": "Ask us about keys"
+  },
+  "brands": {
+    "eyebrow": "Brands",
+    "title": "Brands we sell",
+    "lead": "In our stores you will find tools and materials from brands such as Neo Tools, Topex, KWB, Verto and Deltafix."
+  },
+  "reviews": {
+    "badge": "Reviews on Google",
+    "title": "What customers say about us",
+    "lead": "A selection of the reviews customers wrote about our stores themselves.",
+    "note": "The reviews are shown unedited and in Dutch, exactly as customers wrote them on Google."
+  },
+  "plates": {
+    "title": "Design your own name plate",
+    "text": "Through our online ordering service you can easily design a name plate that matches what you have in mind. Pick your favourite model, add your own text and explore the options in material, colour and finish.",
+    "cta": "Go to the ordering service"
+  },
+  "locations": {
+    "eyebrow": "Two stores",
+    "title": "In de Boogaard and in Oud-Rijswijk",
+    "lead": "In our stores in de Boogaard and Oud-Rijswijk you are helped by one of our staff members. With years of experience and a real feeling for the trade, you can count on solid advice.",
+    "bogaard": "Bogaard store",
+    "herenstraat": "Herenstraat store",
+    "hoursLink": "See the opening hours",
+    "hoursTitle": "Addresses and opening hours",
+    "hoursLead": "Both stores have their own opening hours. We are closed on Monday and on Sunday.",
+    "openingHours": "Opening hours",
+    "route": "View the route",
+    "callBogaard": "Call this store",
+    "callHerenstraat": "Call this store",
+    "noticeBogaard": "Please note: on Tuesday this store opens at 10:00, one hour later than on the other days.",
+    "noticeHerenstraat": "A holiday closure is planned from 18 up to and including 26 September 2026, reopening on 29 September 2026. Dates may change, so feel free to call ahead."
+  },
+  "cta": {
+    "title": "Drop by or ask us something first",
+    "text": "Walk into one of our two stores, or ask your question in advance. We are happy to think along about the job you have in mind.",
+    "primary": "See our stores",
+    "secondary": "Ask your question",
+    "faq": "Go to the frequently asked questions"
+  },
+  "cookie": {
+    "text": "This website only uses storage in your browser to remember the language you picked. You can read more about this in the privacy statement.",
+    "accept": "Agreed",
+    "more": "Privacy statement"
+  },
+  "assortiment": {
+    "eyebrow": "What we sell",
+    "titleA": "For every job around the",
+    "titleB": "house",
+    "lead": "You can come to us for all kinds of tools, for cutting keys, for paint supplies, vacuum cleaner bags, insect screens, name plates, garden supplies and much more.",
+    "sectionTitle": "What you will find in the store",
+    "sectionLead": "Eight product groups from our stores. Not sure exactly what you need? Tell us what you are planning to do and we will find the right item with you.",
+    "keys": "We cut keys for your home, the letterbox, the safe, your bicycle, motorcycle and scooter, as well as car keys with a transponder. Not sure which type you need? Bring the key you have to the store.",
+    "light": "Halogen lamps, led lamps, incandescent bulbs and fluorescent lighting. Bring in the old lamp or the fitting and we will look at which replacement fits.",
+    "tools": "Hand tools from brands such as Neo Tools, Topex, KWB and Verto, together with fixings such as screws, nuts, bolts and washers.",
+    "paint": "Paint and the materials that go with your painting job, such as brushes, rollers and masking supplies.",
+    "bags": "Vacuum cleaner bags are simply available in our stores. Bring your old bag or the type number of your vacuum cleaner and we will find the right size.",
+    "screens": "Window and door screens, so you can open the windows in summer without letting insects in.",
+    "plates": "You design a name plate yourself through our online ordering service. Pick a model, add your own text and choose material, colour and finish.",
+    "garden": "Supplies for work in the garden. Feel free to come in, have a look and ask our staff for advice."
+  },
+  "advice": {
+    "eyebrow": "Advice in store",
+    "title": "Rather talk it through first",
+    "text": "Not sure which item suits your job? Our staff have years of experience and think along with you, so you go home with the right materials.",
+    "item1": "Feel free to bring the old part with you to the store",
+    "item2": "Two stores in Rijswijk, each with its own opening hours",
+    "item3": "Calling works too, the numbers of both stores are on this page",
+    "callTitle": "Call one of our stores",
+    "callCta": "View the opening hours"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "titleA": "The hardware store of",
+    "titleB": "Rijswijk",
+    "lead": "Everything for your home, with professional advice tailored to your job. That is what we do in our two stores every day.",
+    "storyTitle": "Two stores, the same approach",
+    "story1": "In our stores in de Boogaard and Oud-Rijswijk you are helped by one of our staff members. With years of experience and a real feeling for the trade, you can count on solid advice.",
+    "story2": "Onno and Remco Schilperoort are the people behind the stores. You can come to us for all kinds of tools, for cutting keys, for paint supplies, vacuum cleaner bags, insect screens, name plates, garden supplies and much more.",
+    "cta": "See what we sell",
+    "serviceTitle": "From keys to name plates",
+    "serviceText": "Alongside the regular store range we cut keys, and through our online ordering service you can design your own name plate. That way you do not have to look far for the small things around the house.",
+    "serviceCta": "Read the frequently asked questions"
+  },
+  "values": {
+    "eyebrow": "What we stand for",
+    "title": "Three things you can expect from us",
+    "one": {
+      "title": "Trade knowledge",
+      "text": "Staff with years of experience, who know what is in which drawer and why one item suits your job better than another."
+    },
+    "two": {
+      "title": "Close by",
+      "text": "Two stores in Rijswijk: one in the In de Boogaard shopping centre and one in Herenstraat in Oud-Rijswijk."
+    },
+    "three": {
+      "title": "Advice that fits",
+      "text": "Tell us what you are planning to do and we will help you find the item that suits your job and your budget."
+    }
+  },
+  "faq": {
+    "eyebrow": "Frequently asked questions",
+    "titleA": "Answers to the questions we get",
+    "titleB": "most often",
+    "lead": "Is your question not listed? Feel free to call one of our stores or send a message through the contact page.",
+    "q1": "Where can I find the Schilperoort IJzerwaren stores?",
+    "a1": "We have two stores in Rijswijk. The Bogaard store is at Prins Johan Friso Promenade 150, 2284 DC Rijswijk. The Herenstraat store is at Herenstraat 72, 2282 BZ Rijswijk.",
+    "q2": "When are the stores open?",
+    "a2": "The opening hours per day for both stores are listed on the contact page. We are closed on Monday and we are closed on Sunday.",
+    "q3": "Can I have a key cut at your store?",
+    "a3": "Yes. We cut keys for your home, the letterbox, the safe, your bicycle, motorcycle and scooter. Car keys with a transponder are part of our key service as well.",
+    "q4": "Do you also cut car keys with a transponder?",
+    "a4": "Yes, car keys with a transponder are part of our key service. Bring your current key to the store and we will look at the options with you.",
+    "q5": "Which tool brands do you sell?",
+    "a5": "In our stores you will find tools and materials from brands such as Neo Tools, Topex, KWB, Verto and Deltafix.",
+    "q6": "Can I order from you online?",
+    "a6": "Name plates can be designed and ordered through our online ordering service. For everything else you are welcome in one of our two stores in Rijswijk.",
+    "q7": "How do I order a name plate?",
+    "a7": "Through our online ordering service you pick a model, add your own text and choose material, colour and finish. The ordering service runs on its own website.",
+    "q8": "Do you also sell lighting?",
+    "a8": "Yes. We stock halogen lamps, led lamps, incandescent bulbs and fluorescent lighting. Bring the old lamp or the fitting with you and we will look at which replacement fits.",
+    "q9": "Do you have vacuum cleaner bags that fit my vacuum cleaner?",
+    "a9": "Vacuum cleaner bags are part of our range. Bring your old bag or the type number of your vacuum cleaner to the store and we will find the right size.",
+    "q10": "Are the stores closed during the holidays?",
+    "a10": "A holiday closure is planned for the Herenstraat store from 18 up to and including 26 September 2026. The store reopens on 29 September 2026. Dates may change, so feel free to call ahead.",
+    "ctaTitle": "Your question is not listed",
+    "ctaText": "Just ask it. You can call, you can drop by, and through the form on the contact page you can type out your question at your own pace."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "titleA": "Call, email or simply",
+    "titleB": "drop by",
+    "lead": "You will find us in two places in Rijswijk. Below are the addresses, the phone numbers and the opening hours per day.",
+    "formTitle": "Ask your question",
+    "formText": "Fill in your details below and pick the store you would like to send your question to.",
+    "fields": {
+      "name": "Name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "branch": "Your question goes to",
+      "optionBogaard": "Bogaard store",
+      "optionHerenstraat": "Herenstraat store",
+      "message": "Your question or message"
+    },
+    "submit": "Prepare the message",
+    "status": "Your email program is opening with a ready made message to the store you picked. Check the text and send the email yourself.",
+    "mailSubject": "Question through the website",
+    "directTitle": "Rather get in touch directly",
+    "directText": "Feel free to call during opening hours. For a question about a key or a part, it helps if you have the item at hand.",
+    "plateNotice": "Name plates are ordered directly through our online ordering service, which runs on its own website."
+  },
+  "privacy": {
+    "eyebrow": "Privacy",
+    "title": "Privacy statement",
+    "updated": "Last updated: August 2026",
+    "h1": "Who processes your data",
+    "h2": "Which data is collected",
+    "p2": "The contact form on this website opens your own email program with a ready made message. The details you fill in therefore reach us as an ordinary email, without a third party in between. It concerns:",
+    "li1": "Your name",
+    "li2": "Your email address",
+    "li3": "Your phone number, if you fill it in",
+    "li4": "The content of your message",
+    "h3": "Why we process this data",
+    "p3": "We only use your data to answer your question and to get back to you about your message. We do not sell your data and we do not use it for advertising.",
+    "h4": "How long we keep data",
+    "p4": "We do not keep your message longer than needed to handle your question. In most cases that is a maximum of twelve months after the last contact.",
+    "h5": "Third party services",
+    "p5": "This website uses the following services:",
+    "li5": "GitHub Pages for hosting this website",
+    "li6": "Google Fonts for loading the typefaces, which means your IP address is passed on to Google",
+    "li7": "An external ordering service for name plates, which has its own privacy policy",
+    "h6": "Cookies and storage in your browser",
+    "p6": "This website places no advertising cookies and does not track your behaviour. Your browser does store which language you picked and whether you dismissed the notice at the bottom of the screen. That data stays on your own device.",
+    "h7": "Your rights",
+    "p7": "You have the right to view your data, to have it corrected or to have it deleted. You can also object to the processing. Send an email to the store you have been in contact with.",
+    "h8": "Filing a complaint",
+    "p8": "If you believe we are not processing your personal data properly, you can file a complaint with the Dutch Data Protection Authority."
+  },
+  "notfound": {
+    "title": "We could not find this page",
+    "text": "The link may be out of date, or a typing error may have slipped into the address. Go back to the home page or take a look at what we sell.",
+    "cta": "Go to the home page"
+  },
+  "meta": {
+    "home": {
+      "title": "Schilperoort IJzerwaren Rijswijk | Keys, tools and paint",
+      "description": "Hardware store with two locations in Rijswijk. Key service, tools, lighting, paint, insect screens, name plates and garden supplies, with advice from experienced staff."
+    },
+    "assortiment": {
+      "title": "What we sell | Schilperoort IJzerwaren Rijswijk",
+      "description": "From key cutting and tools to lighting, paint, insect screens, vacuum cleaner bags, name plates and garden supplies. This is what you will find in our stores."
+    },
+    "over": {
+      "title": "About us | Schilperoort IJzerwaren in Rijswijk",
+      "description": "Schilperoort IJzerwaren has two stores in Rijswijk, in the In de Boogaard shopping centre and in Oud-Rijswijk. Read who helps you and what we stand for."
+    },
+    "faq": {
+      "title": "Frequently asked questions | Schilperoort IJzerwaren Rijswijk",
+      "description": "Answers about our key service, opening hours, tool brands, name plates and the two Schilperoort IJzerwaren stores in Rijswijk."
+    },
+    "contact": {
+      "title": "Contact and opening hours | Schilperoort IJzerwaren Rijswijk",
+      "description": "Address, phone number, email address and opening hours per day for both Schilperoort IJzerwaren stores in Rijswijk. Ask your question through the form."
+    },
+    "privacy": {
+      "title": "Privacy statement | Schilperoort IJzerwaren Rijswijk",
+      "description": "Privacy statement of Schilperoort IJzerwaren in Rijswijk: which data this website processes, why that happens and which rights you have."
+    },
+    "notfound": {
+      "title": "Page not found | Schilperoort IJzerwaren Rijswijk",
+      "description": "This page does not exist or has been moved. Go back to the Schilperoort IJzerwaren home page in Rijswijk or take a look at what we sell."
+    }
+  }
+}
