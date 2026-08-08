@@ -233,6 +233,8 @@ ul { margin: 0; padding: 0; }
 }
 
 .header-inner {
+  position: relative;
+  z-index: 113;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -424,6 +426,7 @@ body.menu-open .site-header {
   backdrop-filter: none;
   -webkit-backdrop-filter: none;
   background: #FFFFFF;
+  border-bottom-color: transparent;
 }
 
 .mobile-nav {
@@ -579,6 +582,8 @@ main { padding-top: var(--header-h); }
   gap: clamp(32px, 5vw, 56px);
   align-items: center;
 }
+
+.hero-copy { min-width: 0; }
 
 .hero-title {
   margin-bottom: 22px;
