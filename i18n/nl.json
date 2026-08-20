@@ -117,8 +117,7 @@
   "reviews": {
     "badge": "Reviews op Google",
     "title": "Wat klanten over ons zeggen",
-    "lead": "Een greep uit de reacties die klanten zelf over onze winkels schreven.",
-    "note": "De reviews staan hier onbewerkt, precies zoals klanten ze zelf op Google schreven."
+    "lead": "Een greep uit de reacties die klanten zelf over onze winkels schreven."
   },
   "plates": {
     "title": "Uw eigen naambordje ontwerpen",
@@ -212,7 +211,11 @@
     "eyebrow": "Veelgestelde vragen",
     "titleA": "Antwoord op de vragen die wij het",
     "titleB": "vaakst krijgen",
-    "lead": "Staat uw vraag er niet bij? Bel dan gerust een van onze winkels of stuur een bericht via de contactpagina.",
+    "lead": "Hieronder vindt u antwoord op de vragen die klanten ons het vaakst stellen, van de sleutelservice en de openingstijden tot de merken en het bestellen van een naambordje.",
+    "asideTitle": "Staat uw vraag er niet tussen?",
+    "asideText": "Wij helpen u graag verder. Bel gerust een van onze winkels of stuur een bericht via de contactpagina, dan krijgt u snel antwoord.",
+    "helpTitle": "Direct contact",
+    "helpText": "Bellen mag, langskomen mag ook, en via het formulier op de contactpagina typt u uw vraag rustig uit.",
     "q1": "Waar vind ik de winkels van Schilperoort IJzerwaren?",
     "a1": "Wij hebben twee winkels in Rijswijk. Filiaal Bogaard vindt u aan de Prins Johan Friso Promenade 150, 2284 DC Rijswijk. Filiaal Herenstraat vindt u aan de Herenstraat 72, 2282 BZ Rijswijk.",
     "q2": "Wanneer zijn de winkels open?",
@@ -252,9 +255,8 @@
       "optionHerenstraat": "Filiaal Herenstraat",
       "message": "Uw vraag of bericht"
     },
-    "submit": "Bericht opstellen",
-    "status": "Uw e-mailprogramma opent nu met een kant en klaar bericht aan het gekozen filiaal. Controleer de tekst en verstuur de mail zelf.",
-    "mailSubject": "Vraag via de website",
+    "submit": "Vraag versturen",
+    "status": "Bedankt voor uw bericht. Wij nemen zo snel mogelijk contact met u op.",
     "directTitle": "Liever direct contact",
     "directText": "Bel gerust tijdens openingstijden. Voor een vraag over een sleutel of een onderdeel helpt het als u het exemplaar bij de hand heeft.",
     "plateNotice": "Een naambordje bestelt u rechtstreeks via onze online bestelservice, die op een eigen website staat."
@@ -265,7 +267,7 @@
     "updated": "Laatst bijgewerkt: augustus 2026",
     "h1": "Wie verwerkt uw gegevens",
     "h2": "Welke gegevens worden verzameld",
-    "p2": "Het contactformulier op deze website opent uw eigen e-mailprogramma met een kant en klaar bericht. De gegevens die u invult komen dus als gewone e-mail bij ons binnen, niet via een tussenpartij. Het gaat om:",
+    "p2": "Als u het contactformulier op deze website invult en verstuurt, gebruiken wij de gegevens die u achterlaat alleen om uw vraag te beantwoorden. Het gaat om:",
     "li1": "Uw naam",
     "li2": "Uw e-mailadres",
     "li3": "Uw telefoonnummer, als u dat invult",

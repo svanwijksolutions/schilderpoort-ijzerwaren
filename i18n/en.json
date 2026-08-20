@@ -117,8 +117,7 @@
   "reviews": {
     "badge": "Reviews on Google",
     "title": "What customers say about us",
-    "lead": "A selection of the reviews customers wrote about our stores themselves.",
-    "note": "The reviews are shown unedited and in Dutch, exactly as customers wrote them on Google."
+    "lead": "A selection of the reviews customers wrote about our stores themselves."
   },
   "plates": {
     "title": "Design your own name plate",
@@ -212,7 +211,11 @@
     "eyebrow": "Frequently asked questions",
     "titleA": "Answers to the questions we get",
     "titleB": "most often",
-    "lead": "Is your question not listed? Feel free to call one of our stores or send a message through the contact page.",
+    "lead": "Below you will find answers to the questions customers ask us most often, from the key service and opening hours to the brands and ordering a name plate.",
+    "asideTitle": "Can't find your question?",
+    "asideText": "We are happy to help. Feel free to call one of our stores or send a message through the contact page and you will get a quick answer.",
+    "helpTitle": "Get in touch",
+    "helpText": "You can call, you can drop by, and through the form on the contact page you can type out your question at your own pace.",
     "q1": "Where can I find the Schilperoort IJzerwaren stores?",
     "a1": "We have two stores in Rijswijk. The Bogaard store is at Prins Johan Friso Promenade 150, 2284 DC Rijswijk. The Herenstraat store is at Herenstraat 72, 2282 BZ Rijswijk.",
     "q2": "When are the stores open?",
@@ -252,9 +255,8 @@
       "optionHerenstraat": "Herenstraat store",
       "message": "Your question or message"
     },
-    "submit": "Prepare the message",
-    "status": "Your email program is opening with a ready made message to the store you picked. Check the text and send the email yourself.",
-    "mailSubject": "Question through the website",
+    "submit": "Send question",
+    "status": "Thank you for your message. We will get back to you as soon as possible.",
     "directTitle": "Rather get in touch directly",
     "directText": "Feel free to call during opening hours. For a question about a key or a part, it helps if you have the item at hand.",
     "plateNotice": "Name plates are ordered directly through our online ordering service, which runs on its own website."
@@ -265,7 +267,7 @@
     "updated": "Last updated: August 2026",
     "h1": "Who processes your data",
     "h2": "Which data is collected",
-    "p2": "The contact form on this website opens your own email program with a ready made message. The details you fill in therefore reach us as an ordinary email, without a third party in between. It concerns:",
+    "p2": "When you fill in and send the contact form on this website, we only use the details you leave to answer your question. It concerns:",
     "li1": "Your name",
     "li2": "Your email address",
     "li3": "Your phone number, if you fill it in",

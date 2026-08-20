@@ -1,4 +1,4 @@
-/* Schilperoort IJzerwaren — site script
+/* Schilperoort IJzerwaren - site script
    Bevat: header/footer laden, hamburgermenu, taalswitcher met vertalingen,
    tellers, scroll-header, veilig scroll-reveal, cookiemelding, contactformulier. */
 
@@ -317,33 +317,25 @@
 
     form.addEventListener('submit', function (e) {
       e.preventDefault();
+
+      /* honeypot: vermoedelijke bot, stil negeren */
       var honey = form.querySelector('[name="bedrijfsnaam"]');
       if (honey && honey.value) return;
 
-      var data = new FormData(form);
-      var branch = data.get('filiaal') === 'herenstraat'
-        ? 'herenstraat@schilperoort-ijzerwaren.nl'
-        : 'bogaard@schilperoort-ijzerwaren.nl';
-
-      var dict = dictionaries[currentLang] || {};
-      var subjectLabel = lookup(dict, 'contact.mailSubject') || 'Vraag via de website';
-      var lines = [
-        (lookup(dict, 'contact.fields.name') || 'Naam') + ': ' + (data.get('naam') || ''),
-        (lookup(dict, 'contact.fields.email') || 'E-mailadres') + ': ' + (data.get('email') || ''),
-        (lookup(dict, 'contact.fields.phone') || 'Telefoonnummer') + ': ' + (data.get('telefoon') || ''),
-        '',
-        (data.get('bericht') || '')
-      ];
-
-      var href = 'mailto:' + branch +
-        '?subject=' + encodeURIComponent(subjectLabel) +
-        '&body=' + encodeURIComponent(lines.join('\n'));
-
-      if (status) {
-        status.classList.add('visible');
+      /* clientside-validatie van de verplichte velden */
+      if (typeof form.checkValidity === 'function' && !form.checkValidity()) {
+        if (typeof form.reportValidity === 'function') form.reportValidity();
+        return;
       }
 
-      window.location.href = href;
+      /* Demo: het formulier verstuurt niets. Sem koppelt later zelf een
+         verzendservice. We tonen hier alleen een duidelijke bevestiging. */
+      form.reset();
+      if (status) {
+        status.classList.add('visible');
+        status.setAttribute('tabindex', '-1');
+        if (typeof status.focus === 'function') status.focus();
+      }
     });
   }
 
